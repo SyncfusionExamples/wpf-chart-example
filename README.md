@@ -7,7 +7,7 @@ Documentation: https://help.syncfusion.com/wpf/charts/getting-started
 
 ## Project pre-requisites
 To run this application, you need to have the below two in your system
-*	VisualStudio 2005 and above.
+*	Visual Studio.
 *	[Syncfusion.SfChart.WPF](https://www.nuget.org/packages/Syncfusion.SfChart.WPF/) nuget package.
 
 ## Install
