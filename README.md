@@ -13,6 +13,6 @@ To run this application, you need to have the below two in your system
 ## Install
 You can install the Chart Assemblies from Syncfusion nuget packages. Follow the below steps to install assemblies from nuget
 *	Go to the References option in the project.
-*	Right-click the References option and from the option, choose Manage NuGet Packages option.
+*	Right-click the References option and from the menu, choose Manage NuGet Packages option.
 *	Now browse for Syncfusion.SfChart.WPF nuget and install .
 
